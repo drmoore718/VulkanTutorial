@@ -27,6 +27,14 @@
 *.out
 *.app
 
+Debug/*
+*/Debug/*
+.vs/*
+*.spv
+ipch/*
+*.db
+*.opendb
+
 # =========================
 # Operating System Files
 # =========================
